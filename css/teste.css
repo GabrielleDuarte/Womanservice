@@ -1,0 +1,61 @@
+header
+{
+   background-color: black; 
+   
+}
+p
+{
+   font-family: 'Times New Roman';
+  font-size: 35px;
+  color: pink;
+}
+h1
+{
+  font-family: 'Times New Roman';
+  font-size: 25px;
+  color: pink;
+}
+legend
+{
+   color: pink;
+   font-family: 'Times New Roman';
+}
+h2
+{
+ color: pink;
+   font-family: 'Times New Roman';
+}
+h3
+{
+ color: pink;
+   font-family: 'Times New Roman';
+}
+
+body 
+{
+    background-color: black;
+    width: 800px;
+    height: 800px;
+}
+
+div.divcentral
+{
+  margin-top: 50px;
+  margin-left: 25px;  
+}
+a
+{
+  font-family: 'Times New Roman';
+  color: pink;
+  font-size: 15px;
+}
+a.cabe:hover
+{
+  color: white;
+}
+a.cabe
+{
+  font-family: 'Times New Roman';
+  color: pink;
+  font-size: 20px;
+}
